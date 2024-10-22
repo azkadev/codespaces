@@ -1,3 +1,4 @@
-
+*
 !.gitignore 
-*install.sh
+!flutter-full.sh
+!install.sh
