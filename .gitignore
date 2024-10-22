@@ -1,4 +1,3 @@
-*
-!.gitignore
-*install-*.sh
+
+!.gitignore 
 *install.sh
