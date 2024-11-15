@@ -1,5 +1,5 @@
 *
-!programs/
+!programs
 !.gitignore 
 !flutter-full.sh
 !install.sh
