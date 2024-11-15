@@ -1,3 +1,6 @@
 !.gitignore 
 !flutter-full.sh
 !install.sh
+*.deb
+*.zip
+
