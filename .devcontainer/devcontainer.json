@@ -1,7 +1,0 @@
-{
-    "build": {
-        "dockerfile": "Dockerfile"
-    },
-    "features": {},
-    "postCreateCommand": "sudo apt-get update"
-}
