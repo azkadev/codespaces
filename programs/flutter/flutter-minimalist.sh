@@ -5,7 +5,7 @@ sudo apt-get install apt-transport-https -y
 
 mkdir -p "$HOME/development"
 cd "$HOME/development"
-git clone --depth 1 --branch stable https://github.com/flutter/flutter
+git clone --branch stable https://github.com/flutter/flutter
 echo "git config --global --add safe.directory \$HOME/development/flutter" >> $HOME/.bashrc
 echo "export PATH=\$PATH:\$HOME/development/flutter/bin" >> $HOME/.bashrc
 echo "export PATH=\$PATH:\$HOME/development/flutter/bin" >> $HOME/.zshrc
